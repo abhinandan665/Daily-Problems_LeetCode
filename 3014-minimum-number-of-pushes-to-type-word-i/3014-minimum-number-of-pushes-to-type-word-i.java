@@ -1,10 +1,6 @@
 class Solution {
     public int minimumPushes(String word) {
-        HashSet<Character> set=new HashSet<>();
-        for(char ch:word.toCharArray()){
-            set.add(ch);
-        }
-        int n=set.size();
+        int n=word.length();
         int push=0;
         if(n<=8){
             push=n;
