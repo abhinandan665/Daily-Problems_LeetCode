@@ -6,16 +6,16 @@ class Solution {
         for(int[] row:grid){
             int l=0;
             int h=n-1;
-            int fn=n;
+            int firstneg=n;
             while(l<=h){
                 int mid=(l+h)/2;
                 if(row[mid]<0){
-                    fn=mid;
+                    firstneg=mid;
                     h=mid-1;
                 }
                 else l=mid+1;
             }
-            cnt+=n-fn;
+            cnt+=n-firstneg;
         }
         return cnt;
     }
