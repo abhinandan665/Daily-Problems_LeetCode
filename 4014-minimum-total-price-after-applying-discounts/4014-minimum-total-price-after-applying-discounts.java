@@ -2,18 +2,22 @@ class Solution {
     public double minPrice(int[] prices, int[] discounts) {
         Arrays.sort(prices);
         Arrays.sort(discounts);
+        double ans=0;
         int i=prices.length-1;
         int j=discounts.length-1;
-        double amount=0;
-        while(i>=0 && j>=0){
-            amount+=(prices[i]*(100-discounts[j]))/100.00000;
-            i--;
-            j--;
-        }
-        while(i>=0){
-            amount+=prices[i];
-            i--;
-        }
-        return amount;
+        while(i>=0 && j>=0)
+            {
+                ans+=prices[i]*(100-discounts[j])/100.00;
+                i--;
+                j--;
+            }
+        while(i>=0)
+            {
+                ans+=prices[i];
+                i--;
+                
+            }
+        
+        return ans;
     }
 }
