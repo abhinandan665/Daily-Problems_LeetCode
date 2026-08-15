@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
