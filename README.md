@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
