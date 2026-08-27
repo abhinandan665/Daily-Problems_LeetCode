@@ -119,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
