@@ -11,14 +11,14 @@
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
         int first=-1,last=-1,min=Integer.MAX_VALUE,i=1;
-        ListNode prev=head,curr=head.next,next=curr.next;
+        ListNode pre=head,curr=head.next,next=curr.next;
         while(next!=null){
-            if((curr.val>prev.val&&curr.val>next.val)||(curr.val<prev.val&&curr.val<next.val)){
+            if((curr.val>pre.val&&curr.val>next.val)||(curr.val<pre.val&&curr.val<next.val)){
                 if(first==-1) first=i;
                 else min=Math.min(min,i-last);
                 last=i;
             }
-            prev=curr;
+            pre=curr;
             curr=next;
             next=next.next;
             i++;
