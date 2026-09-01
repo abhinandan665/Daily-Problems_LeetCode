@@ -8,6 +8,6 @@ class Solution {
             f=f+sum-(long)n*A[n-i];
             max=Math.max(max,f);
         }
-        return max;
+        return (int)max;
     }
 }
