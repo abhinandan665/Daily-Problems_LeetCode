@@ -135,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Union-Find
 |  |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
