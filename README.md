@@ -147,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
