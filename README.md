@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0771-jewels-and-stones) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
