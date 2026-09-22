@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
