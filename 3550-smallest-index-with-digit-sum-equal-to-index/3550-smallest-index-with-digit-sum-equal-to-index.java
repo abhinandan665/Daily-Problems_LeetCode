@@ -1,7 +1,7 @@
 class Solution {
     public int smallestIndex(int[] nums) {
         for(int i=0;i<nums.length;i++){
-            if(nums[i]<i) continue;
+            // if(nums[i]<i) continue;
             int sum=0;
             int temp=nums[i];
             while(temp>0){
