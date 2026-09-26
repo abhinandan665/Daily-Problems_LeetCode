@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0771-jewels-and-stones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0771-jewels-and-stones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
