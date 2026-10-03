@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0066-plus-one) |
+| [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0137-single-number-ii) |
 | [0396-rotate-function](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -212,12 +215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
