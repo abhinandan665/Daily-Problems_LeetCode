@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
+| [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
+| [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
