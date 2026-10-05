@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
@@ -268,5 +270,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
