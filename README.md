@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0836-rectangle-overlap) |
