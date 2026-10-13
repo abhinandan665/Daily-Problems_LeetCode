@@ -9,10 +9,9 @@ class Solution {
         long mns=0;
         for(int i=0;i<n/2;i++){
             mns+=(nums[i]*nums[i]);
+            mxs+=(nums[i+n/2]*nums[i+n/2]);
         }
-        for(int i=(n/2);i<n;i++){
-            mxs+=(nums[i]*nums[i]);
-        }
+        if(n%2!=0) mxs+=(nums[n-1]*nums[n-1]);
         return mxs-mns;
     }
 }
