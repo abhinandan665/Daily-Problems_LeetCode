@@ -29,7 +29,7 @@ Thus, the result should be [4,3,2,2].
 <strong>Input:</strong> digits = [9]
 <strong>Output:</strong> [1,0]
 <strong>Explanation:</strong> The array represents the integer 9.
-Incrementing by one gives 9 + 1 = 10.
+Incrementing by one gives 9 + 1 = 10.0.
 Thus, the result should be [1,0].
 </pre>
 
