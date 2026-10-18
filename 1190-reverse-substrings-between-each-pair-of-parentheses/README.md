@@ -23,7 +23,7 @@
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;(ed(et(oc))el)&quot;
+<strong>Input:</strong> s= &quot;(ed(et(oc))el)&quot;
 <strong>Output:</strong> &quot;leetcode&quot;
 <strong>Explanation:</strong> First, we reverse the substring &quot;oc&quot;, then &quot;etco&quot;, and finally, the whole string.
 </pre>
