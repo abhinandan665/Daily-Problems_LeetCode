@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
