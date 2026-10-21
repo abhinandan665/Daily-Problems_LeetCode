@@ -25,7 +25,7 @@
 <p><strong>Output:</strong> <span class="example-io">true</span></p>
 </div>
 
-<p><strong class="example">Example 3:</strong></p>
+<p><strong class="example">Example-3:</strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">s = &quot;(]&quot;</span></p>
