@@ -1,9 +1,8 @@
 class Solution {
     public int[] constructRectangle(int area) {
         int maxdiff=Integer.MAX_VALUE;
-        int limit=(area/2)+1;
         int[] ans=new int[2];
-        for(int i=1;i<=limit;i++){
+        for(int i=1;i*i<=area;i++){
             if(area%i==0){
                 int j=area/i;
                 int diff=Math.abs(i-j);
