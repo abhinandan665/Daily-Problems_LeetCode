@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0137-single-number-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
