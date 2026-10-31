@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0836-rectangle-overlap) |
 ## Bubble Sort
 |  |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
