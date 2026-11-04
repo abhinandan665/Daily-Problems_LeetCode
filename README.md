@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0509-fibonacci-number](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0812-largest-triangle-area) |
@@ -175,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0812-largest-triangle-area) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
