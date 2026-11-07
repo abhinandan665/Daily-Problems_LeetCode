@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
