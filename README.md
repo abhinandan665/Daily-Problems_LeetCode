@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
