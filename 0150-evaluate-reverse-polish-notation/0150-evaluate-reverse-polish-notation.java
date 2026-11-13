@@ -10,7 +10,7 @@ class Solution {
                 else if(s.equals("*")) st.push(a*b);
                 else st.push(a/b);
             }
-            else st.push(Integer.valueOf(s));
+            else st.push(Integer.parseInt(s));
         }
         return st.pop();
     }
