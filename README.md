@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1518-water-bottles) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2485-find-the-pivot-integer](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2485-find-the-pivot-integer](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
