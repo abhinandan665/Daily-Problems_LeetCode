@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1518-water-bottles) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
