@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0645-set-mismatch) |
