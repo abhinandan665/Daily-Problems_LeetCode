@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0645-set-mismatch) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1051-height-checker) |
 ## Stack
 |  |
@@ -386,5 +389,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0075-sort-colors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
