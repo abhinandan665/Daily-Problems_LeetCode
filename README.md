@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## String
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Enumeration
 |  |
 | ------- |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhinandan665/Daily-Problems_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
